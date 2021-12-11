@@ -1,0 +1,1 @@
+{"uuid":"61177970-835c-4534-97a6-4e90a125c7d9","name":"com.automation.testcases.TestLinks","children":["554a0356-244c-4bd5-90d1-7101beb1ed93"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1637595030693,"stop":1637595041607}],"afters":[],"links":[],"start":1637595030590,"stop":1637595061129}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.automation.testcases.TestClass_TryHere">
+        <methods>
+          <include name="Creating_Linked_List"/>
+          <include name="Insertion"/>
+          <include name="close"/>
+          <include name="setUp"/>
+          <include name="ChooseIntroduction_LL_Check_Links_On_Page"/>
+          <include name="Implement_Linked_List_In_Python"/>
+          <include name="Deletion"/>
+          <include name="Traversal"/>
+          <include name="Types_Of_Linked_List"/>
+        </methods>
+      </class> <!-- com.automation.testcases.TestClass_TryHere -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
